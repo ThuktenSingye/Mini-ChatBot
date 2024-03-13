@@ -8,7 +8,6 @@
   <li><strong>Embeddings and Vectorization:</strong> LangChain utilizes OpenAI embeddings to convert text into numerical vectors, enabling efficient similarity search and document retrieval.</li>
   <li><strong>Question Answering Chain:</strong> The package provides a question-answering chain that processes user queries and returns relevant information from the input documents.</li>
   <li><strong>Chat Interface:</strong> LangChain offers a user-friendly chat interface, allowing users to interact with the question-answering system in a conversational manner.</li>
-  <li><strong>Customizable:</strong> Users can customize the behavior of the question-answering chain and fine-tune parameters such as temperature and model type.</li>
 </ul>
 
 <h2>Usage:</h2>
